@@ -1,4 +1,3 @@
-# MDC-TEST
 
 ## Passos para inicar o projeto
 
